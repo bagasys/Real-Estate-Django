@@ -123,3 +123,6 @@ dmypy.json
 /media
 venv
 /static
+/btre_resources
+/.vscode
+pip_install.txt

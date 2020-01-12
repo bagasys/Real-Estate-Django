@@ -1,5 +1,5 @@
 {
   "python.pythonPath": "venv\\Scripts\\python.exe",
   "editor.tabSize": 2,
-  "editor.detectIndentation": false
+  "editor.formatOnSave": true
 }
